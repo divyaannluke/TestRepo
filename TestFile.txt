@@ -1,3 +1,7 @@
 Change 1
 Change 2
+<<<<<<< HEAD
 Hello from master
+=======
+Hai from idea
+>>>>>>> Hai from idea is added to TestFile.txt
