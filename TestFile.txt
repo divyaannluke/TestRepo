@@ -1,7 +1,3 @@
 Change 1
 Change 2
-<<<<<<< HEAD
-Change from master is added
-=======
-Change from Idea branch
->>>>>>> Change From Idea is added to TestFile.txt
+Change from master second time is added
